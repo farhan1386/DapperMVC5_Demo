@@ -28,5 +28,7 @@ namespace DapperMVC5_Demo.Models
 
         [Required]
         public int DepartmentId { get; set; }
+
+        public Departments Departments { get; set; }
     }
 }
