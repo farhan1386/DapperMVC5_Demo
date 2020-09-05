@@ -6,20 +6,20 @@ Dapper is an object-relational mapping (ORM) for the .NET platform. It provides 
 
 # What are the features of dapper?
 
-•	Speedy and high performance
-•	Choice of static/dynamic object binding
-•	Easy handling of SQL query
-•	Multiple query support
-•	Support and easy handling of stored procedures
-•	Operating directly on IDbConnection interface
-•	Bulk data insert functionality
+*	Speedy and high performance
+*	Choice of static/dynamic object binding
+*	Easy handling of SQL query
+*	Multiple query support
+*	Support and easy handling of stored procedures
+*	Operating directly on IDbConnection interface
+*	Bulk data insert functionality
 
 # How Dapper Works?
 
 It is a three-step process.
-•	Create an IDbConnection object.
-•	Write a query to perform CRUD operations.
-•	Pass query as a parameter in the Execute method.
+*	Create an IDbConnection object.
+* Write a query to perform CRUD operations.
+*	Pass query as a parameter in the Execute method.
 
 # How to Install Dapper?
 
