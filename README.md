@@ -1,4 +1,4 @@
-# Dapper with ASP.ENT MVC5
+# Configure Dapper with ASP.ENT MVC5
 
 # What's Dapper?
 
